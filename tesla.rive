@@ -1,0 +1,35 @@
++ hola
+- Hola, Soy un asistente, Dime! en te puedo ayudar \nNuestros telefonos\nNuestra direccion\nCursos\nPagina web\nHorarios\nProblemas al acceder al aula virtual\n😂😂😂😂
+
+! var cursos = Excel\nProgramacion Java \nProgramacion Phyton
+! var horario = Estamos en disposición de Lunes a Viernes de 09:00hs a 22:00hs, y los sabados de 9:00hs a 13:30hs\nTe esperamos😂😂 
+
++ (cursos) *
+- <bot cursos>
++ como estas
+@ hola
++ hay alguien *
+@ hola
+
++ (telefono|celular|cel|contacto) *
+- Nuestro telefono es 725648221
+
++ (direccion|ubicación|lugar) *
+- Nuestra direccion Calle Buenos Aires 543 a media cuadra del Buen Pastor
+- Nos encontramos ubicados en la Calle Buenos Aires 543 a media cuadra del Buen Pastor
+
++ (entregas|a domicilio) *
+- Realizamos entregas a domicilio solo de lunes a viernes de 12:00 a 15:00
+
++ (pagina web|web|pagina|sitio web) *
+- Visitanos en https://institutotesla.com.ar
+
++ (hora|horarios|dias|abierto) *
+- <bot horario>
+
++ (Acceder al aula virtual|campus virtual) *
+- Para acceder al aula virtual te envio este link de video donde veras paso a paso como iniciar session en tu cuenta https://www.youtube.com/ 
+
++ *
+- Recuerda que soy un robot, me podrías preguntar de otra forma
+- Intenta hacer tu pregunta de otra manera
