@@ -1,0 +1,36 @@
+Error: [2] Undefined array key "hub_challenge" in C:\xampp\htdocs\BOT\back_user\index.php on line 39
+Error: [2] Undefined array key "hub_verify_token" in C:\xampp\htdocs\BOT\back_user\index.php on line Undefined to array keyboard lasting
+Error: [2] Undefined array key "hub_challenge" in C:\xampp\htdocs\BOT\back_user\index.php on line 39
+Error: [2] Undefined array key "hub_verify_token" in C:\xampp\htdocs\BOT\back_user\index.php on line Undefined to array keyboard lasting
+Error: [2] Undefined array key "hub_challenge" in C:\xampp\htdocs\BOT\back_user\index.php on line 39
+Error: [2] Undefined array key "hub_verify_token" in C:\xampp\htdocs\BOT\back_user\index.php on line Undefined to array keyboard lasting
+Error: [2] Undefined array key "hub_challenge" in C:\xampp\htdocs\BOT\back_user\index.php on line 39
+Error: [2] Undefined array key "hub_verify_token" in C:\xampp\htdocs\BOT\back_user\index.php on line Undefined to array keyboard lasting
+Error: [2] Undefined array key "hub_challenge" in C:\xampp\htdocs\BOT\back_user\index.php on line 39
+Error: [2] Undefined array key "hub_verify_token" in C:\xampp\htdocs\BOT\back_user\index.php on line Undefined to array keyboard lasting
+Error: [2] Undefined array key "hub_challenge" in C:\xampp\htdocs\BOT\back_user\index.php on line 39
+Error: [2] Undefined array key "hub_verify_token" in C:\xampp\htdocs\BOT\back_user\index.php on line Undefined to array keyboard lasting
+Error: [2] Undefined array key "hub_challenge" in C:\xampp\htdocs\BOT\back_user\index.php on line 39
+Error: [2] Undefined array key "hub_verify_token" in C:\xampp\htdocs\BOT\back_user\index.php on line Undefined to array keyboard lasting
+Error: [2] Undefined array key "hub_challenge" in C:\xampp\htdocs\BOT\back_user\index.php on line 39
+Error: [2] Undefined array key "hub_verify_token" in C:\xampp\htdocs\BOT\back_user\index.php on line Undefined to array keyboard lasting
+Error: [2] Undefined array key "hub_challenge" in C:\xampp\htdocs\BOT\back_user\index.php on line 39
+Error: [2] Undefined array key "hub_verify_token" in C:\xampp\htdocs\BOT\back_user\index.php on line Undefined to array keyboard lasting
+Error: [2] Undefined array key "hub_challenge" in C:\xampp\htdocs\BOT\back_user\index.php on line 39
+Error: [2] Undefined array key "hub_verify_token" in C:\xampp\htdocs\BOT\back_user\index.php on line Undefined to array keyboard lasting
+Error: [2] Undefined array key "hub_challenge" in C:\xampp\htdocs\BOT\back_user\index.php on line 39
+Error: [2] Undefined array key "hub_verify_token" in C:\xampp\htdocs\BOT\back_user\index.php on line Undefined to array keyboard lasting
+Error: [2] Undefined array key "hub_challenge" in C:\xampp\htdocs\BOT\back_user\index.php on line 39
+Error: [2] Undefined array key "hub_verify_token" in C:\xampp\htdocs\BOT\back_user\index.php on line Undefined to array keyboard lasting
+Error: [2] Undefined array key "hub_challenge" in C:\xampp\htdocs\BOT\back_user\index.php on line 39
+Error: [2] Undefined array key "hub_verify_token" in C:\xampp\htdocs\BOT\back_user\index.php on line Undefined to array keyboard lasting
+Error: [2] Undefined array key "hub_challenge" in C:\xampp\htdocs\BOT\back_user\index.php on line 39
+Error: [2] Undefined array key "hub_verify_token" in C:\xampp\htdocs\BOT\back_user\index.php on line Undefined to array keyboard lasting
+Error: [2] Undefined array key "hub_challenge" in C:\xampp\htdocs\BOT\back_user\index.php on line 39
+Error: [2] Undefined array key "hub_verify_token" in C:\xampp\htdocs\BOT\back_user\index.php on line Undefined to array keyboard lasting
+Error: [2] Undefined array key "hub_challenge" in C:\xampp\htdocs\BOT\back_user\index.php on line 39
+Error: [2] Undefined array key "hub_verify_token" in C:\xampp\htdocs\BOT\back_user\index.php on line Undefined to array keyboard lasting
+Error: [2] Undefined array key "hub_challenge" in C:\xampp\htdocs\BOT\back_user\index.php on line 39
+Error: [2] Undefined array key "hub_verify_token" in C:\xampp\htdocs\BOT\back_user\index.php on line Undefined to array keyboard lasting
+Error: [2] Undefined array key "hub_challenge" in C:\xampp\htdocs\BOT\back_user\index.php on line 39
+Error: [2] Undefined array key "hub_verify_token" in C:\xampp\htdocs\BOT\back_user\index.php on line Undefined to array keyboard lasting

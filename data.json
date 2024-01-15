@@ -1,0 +1,88 @@
+{
+    "recipient_type": "individual",
+    "messaging_product": "whatsapp",
+    "to": "5493516601157",
+    "type": "interactive",
+    "interactive": {
+        "type": "flow",
+        "header": {
+            "type": "text",
+            "text": "cabeza"
+        },
+        "body": {
+            "text": "flow mensaje"
+        },
+        "footer": {
+            "text": "tesla"
+        },
+        "action": {
+            "version": "2.1",
+            "data_api_version": "3.0",
+            "data_channel_uri": "https://whatsapp.com",
+            "routing_model": {
+                "MY_FIRST_SCREEN": [
+                    "MY_SECOND_SCREEN"
+                ],
+                "MY_SECOND_SCREEN": [
+                    "MY_THIRD_SCREEN"
+                ]
+            },
+            "screens": [
+                {
+                    "id": "MY_FIRST_SCREEN",
+                    "title": "First Screen",
+                    "layout": {
+                        "type": "SingleColumnLayout",
+                        "children": [
+                            {
+                                "type": "Footer",
+                                "label": "Continue",
+                                "on-click-action": {
+                                    "name": "data_exchange",
+                                    "payload": {}
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "MY_SECOND_SCREEN",
+                    "title": "Second Screen",
+                    "data": {},
+                    "layout": {
+                        "type": "SingleColumnLayout",
+                        "children": [
+                            {
+                                "type": "Footer",
+                                "label": "Continue",
+                                "on-click-action": {
+                                    "name": "data_exchange",
+                                    "payload": {}
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "MY_THIRD_SCREEN",
+                    "title": "Third Screen",
+                    "terminal": true,
+                    "data": {},
+                    "layout": {
+                        "type": "SingleColumnLayout",
+                        "children": [
+                            {
+                                "type": "Footer",
+                                "label": "Continue",
+                                "on-click-action": {
+                                    "name": "data_exchange",
+                                    "payload": {}
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}

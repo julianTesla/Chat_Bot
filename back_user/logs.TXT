@@ -1,0 +1,30 @@
+{
+            "recipient_type": "individual",
+            "messaging_product": "whatsapp",
+            "to": "5493516601157",
+            "type": "interactive",
+            "interactive": {
+                "type": "button","header": {
+                            "type": "text",
+                            "text": "Hola soy Nico Tesla\ud83e\udd14\ud83e\udd14"
+                        },"body": {
+                            "text": "hola chicos este es el nuevo bot"
+                        },"footer": {
+                            "text": "qwe"
+                        },"action": {
+                            "buttons": [{
+                                "type": "reply",
+                                "reply": {
+                                    "id": "254",
+                                    "title": "opc1"
+                                }
+                            },{
+                                "type": "reply",
+                                "reply": {
+                                    "id": "255",
+                                    "title": "opc2"
+                                }
+                            },]
+                        }
+                    }
+                    }

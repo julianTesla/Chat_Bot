@@ -1,0 +1,16 @@
+pantalla 1: login hardcode dos users 
+
+pantalla 2: Elegir flujo a usar
+
+pantalla 3: Usar flujo -> Terminado 
+
+pantalla 4: menu seleccion de pantallas
+
+pantalla 5: menu pantalla asociar numeros
+
+pantalla 6: crear o editar flujos 
+
+pantalla 7: panatalla de vista de mensaje en flujos
+
+NOTA. Agregar opcion adjuntos videos o documentos 
+
