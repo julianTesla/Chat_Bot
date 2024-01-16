@@ -1,0 +1,37 @@
+{
+  "id_msg": 222,
+  "nombre_msg": "Inicio",
+  "encabezado_msg": "hola estoy para ayudarte",
+  "cuerpo_msg": "tranquilo yo te guiare",
+  "pie_msg": "Instuto Tesla \u25b2 Evolucion en la Educaci\u00f3n",
+  "opciones": [
+    {
+      "id_msg": 223,
+      "nombre_msg": "seleccion 1",
+      "encabezado_msg": "\ud83d\ude06\ud83d\ude06\ud83c\udde7\ud83c\uddf4\ud83c\udde7\ud83c\uddf4\ud83c\udde7\ud83c\uddf4\ud83c\udde7\ud83c\uddf7",
+      "cuerpo_msg": "jajajajaaa",
+      "pie_msg": ""
+    },
+    {
+      "id_msg": 224,
+      "nombre_msg": "selecciona 2",
+      "encabezado_msg": "",
+      "cuerpo_msg": "1234564789",
+      "pie_msg": ""
+    },
+    {
+      "id_msg": 225,
+      "nombre_msg": "selecciona 3",
+      "encabezado_msg": "",
+      "cuerpo_msg": "loplolololololo",
+      "pie_msg": ""
+    },
+    {
+      "id_msg": 226,
+      "nombre_msg": "seleccion 4",
+      "encabezado_msg": "",
+      "cuerpo_msg": "1231489489545",
+      "pie_msg": ""
+    }
+  ]
+}
