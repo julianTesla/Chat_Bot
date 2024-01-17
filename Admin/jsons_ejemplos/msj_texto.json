@@ -1,0 +1,39 @@
+{
+    "object": "whatsapp_business_account",
+    "entry": [
+        {
+            "id": "100419553108522",
+            "changes": [
+                {
+                    "value": {
+                        "messaging_product": "whatsapp",
+                        "metadata": {
+                            "display_phone_number": "5493513233443",
+                            "phone_number_id": "112035591929858"
+                        },
+                        "contacts": [
+                            {
+                                "profile": {
+                                    "name": "Oficina De Diseño"
+                                },
+                                "wa_id": "5493518622629"
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "from": "5493518622629",
+                                "id": "wamid.HBgNNTQ5MzUxODYyMjYyORUCABIYIENERkI1ODc4NjQ5NDExOUJFNkRBMzM1MkMxM0NERTc1AA==",
+                                "timestamp": "1696869584",
+                                "text": {
+                                    "body": "Cursos"
+                                },
+                                "type": "text"
+                            }
+                        ]
+                    },
+                    "field": "messages"
+                }
+            ]
+        }
+    ]
+}
